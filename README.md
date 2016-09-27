@@ -11,11 +11,9 @@ $ brew install opus
 $ go get github.com/xlab/opus-go/opus
 ```
 
-### Demo
+### Usage
 
-```
-// webm
-```
+For example of use [webm-player/adecoder.go](https://github.com/xlab/libvpx-go/blob/master/cmd/webm-player/adecoder.go), the audio decoding module of an WebM player in Golang. It's very easy in comparison with Ogg/Vorbis.
 
 ### Rebuilding the package
 
