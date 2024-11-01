@@ -1,5 +1,5 @@
 all:
-	cgogen opus.yml
+	c-for-go opus.yml
 
 clean:
 	rm -f opus/cgo_helpers.go opus/cgo_helpers.h opus/cgo_helpers.c
