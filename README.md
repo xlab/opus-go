@@ -17,7 +17,7 @@ For an example of use see [webm-player/adecoder.go](https://github.com/xlab/libv
 
 ### Rebuilding the package
 
-You will need to get the [cgogen](https://git.io/cgogen) tool installed first.
+You will need to get the [c-for-go](https://git.io/c-for-go) tool installed first.
 
 ```
 $ git clone https://github.com/xlab/opus-go && cd opus-go
